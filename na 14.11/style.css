@@ -1,0 +1,13 @@
+ul > li > a[href="https://www.youtube.com/"]
+{
+  text-decoration: none;
+  color: tomato;
+}
+ul > li > a[href="https://validator.w3.org/"]
+{
+  text-decoration: none;
+  color: tomato;
+}
+div > p {
+  size: 24px;
+}
