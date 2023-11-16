@@ -1,10 +1,4 @@
-ul > li > a[href]
-{
-  text-decoration: none;
-  color: tomato;
-}
-ul > li > a[href]
-{
+a[href^="https://"] {
   text-decoration: none;
   color: tomato;
 }
@@ -13,4 +7,3 @@ ul + p
 {
   font-size: 24px;
 }
-
